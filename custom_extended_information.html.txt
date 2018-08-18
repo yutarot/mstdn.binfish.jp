@@ -3,7 +3,7 @@
 </style>
 
 <h2><i class="fa fa-server fa-fw" aria-hidden="true"></i> 構成</h2>
-<p><em>非Docker環境</em>で稼働. </p>
+<p><em>非Docker環境</em>で稼働中. </p>
 <p>ConoHaのAppサーバとDBサーバは<a href="https://www.conoha.jp/faq/private-network/" target="_blank">プライベートネットワーク</a>で接続しています.</p>
 
 <br>
